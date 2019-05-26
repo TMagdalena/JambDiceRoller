@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JambDiceRoller</string>
+    <string name="start_over_buttontext">Start over</string>
+    <string name="roll_dice_buttontext">Roll dice</string>
+</resources>
